@@ -1,0 +1,1 @@
+# Routh-Kurwitz-criteriu-de-stabilitate
